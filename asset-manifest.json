@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/harjutus3_raamat/static/css/main.56702476.css",
+    "main.js": "/harjutus3_raamat/static/js/main.892ae253.js",
+    "static/js/787.4e3335e1.chunk.js": "/harjutus3_raamat/static/js/787.4e3335e1.chunk.js",
+    "static/media/eestlase.jpg": "/harjutus3_raamat/static/media/eestlase.70fbb086b757a0d0c894.jpg",
+    "static/media/jaanus.jpg": "/harjutus3_raamat/static/media/jaanus.08362535b3f21817a016.jpg",
+    "static/media/rehepapp.jpg": "/harjutus3_raamat/static/media/rehepapp.b04840cd1160b48327c4.jpg",
+    "index.html": "/harjutus3_raamat/index.html",
+    "main.56702476.css.map": "/harjutus3_raamat/static/css/main.56702476.css.map",
+    "main.892ae253.js.map": "/harjutus3_raamat/static/js/main.892ae253.js.map",
+    "787.4e3335e1.chunk.js.map": "/harjutus3_raamat/static/js/787.4e3335e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56702476.css",
+    "static/js/main.892ae253.js"
+  ]
+}
