@@ -24,7 +24,7 @@ const RAAMATUD = [
         pealkiri: 'Jaanus Nõgisto',
         autor: 'Tiina Lang',
         aasta: '2016',
-        kirjeldus: 'Jaanus Nõgisto – muusik, endise rokkansambli Ruja kitarrist, telerežissöör, purjetaja, kes 60aastasena on pisut rahunenud, ent endiselt kuraasikalt mitmekülgne nagu teismelisena.        13aastaselt tuli Jaanus esimese eestlasena Nõukogude Liidu meistriks. «Mul kohutavalt vedas!» Purjetamine oli talle maailma kõige olulisem asi, kuni ühel hetkel ta tüdines. ',
+        kirjeldus: 'Jaanus Nõgisto – muusika, endise rokkansambli Ruja kitarrist, telerežissöör, purjetaja, kes 60aastasena on pisut rahunenud, ent endiselt kuraasikalt mitmekülgne nagu teismelisena.        13aastaselt tuli Jaanus esimese eestlasena Nõukogude Liidu meistriks. «Mul kohutavalt vedas!» Purjetamine oli talle maailma kõige olulisem asi, kuni ühel hetkel ta tüdines. ',
         pilt: piltJaanus
     },
 ]
